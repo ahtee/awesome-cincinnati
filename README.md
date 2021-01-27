@@ -1,7 +1,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md) 
 
 # awesome-cincinnati
-List of awesome local Cincinnati businesses and other resources!
+> A curated list of Cincinnati local businesses and other resources. Please contribute!
 
 ## Contents
 - [Beer](#beer)
