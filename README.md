@@ -8,15 +8,19 @@
 - [Bank](#bank)
 - [Barcade](#barcade)
 - [Beer](#beer)
-- [Chili](#chili)
-- [Chips](#chips)
 - [Clothing](#clothing)
 - [Coffee](#coffee)
 - [Condiments](#condiments)
-- [Dessert](#dessert)
 - [Festivities](#festivities)
-- [Food Week](#food-week)
-- [Goetta](#goetta)
+- [Food](#food)
+  - [Chili](#chili)
+  - [Chips](#chips)
+  - [Dessert](#dessert)
+  - [German Biergarten](#german-biergarten)
+  - [Goetta](#goetta)
+  - [Pretzels](#pretzels)
+  - [Restaurants](#restaurants)
+  - [Food Week](#food-week)
 - [Insurance](#insurance)
 - [Mall](#mall)
   - [Indoor](#indoor)
@@ -26,8 +30,6 @@
 - [News](#news)
 - [Parks](#parks)
 - [House Plants](#house-plants)
-- [Pretzels](#pretzels)
-- [Restaurants](#restaurants)
 
 ## Arcade
 - [Arcade Legacy](https://www.facebook.com/Arcade-Legacy-116078858447305)
@@ -47,16 +49,6 @@
 - [Rhinegeist](https://www.facebook.com/rhinegeist/)
 - [Urban Artifact](https://www.facebook.com/urbanartifactbrewing)
 
-## Chili
-- [Camp Washington Chili](https://www.facebook.com/campwashingtonchili)
-- [Covington Chili](https://www.facebook.com/CovingtonChili)
-- [Dixie Chili](https://www.facebook.com/DixieChiliNewport)
-- [Gold Star Chili](https://www.facebook.com/goldstarchili)
-- [Skyline Skili](https://www.facebook.com/SkylineChili)
-
-## Chips
-- [Grippo's](https://www.grippos.com/)
-
 ## Clothing
 - [Native](https://www.facebook.com/NativeFlagShipStore)
 - [Sole By Style](https://www.facebook.com/solebystyle)
@@ -69,23 +61,51 @@
 ## Condiments
 - [Farmer Nate's Sauce](https://www.facebook.com/farmernatessauce)
 
-## Dessert
-- [Eishaus](https://www.facebook.com/Eishauscov)
-- [Graeter's](https://www.facebook.com/Graeters)
-
 ## Festivities
 - [Blink](https://www.facebook.com/blinkcincinnati)
 - [Goettafest](http://www.goettafest.com/)
 - [Oktoberfest](https://www.oktoberfestzinzinnati.com/)
 - [Reds Opening Day](https://www.mlb.com/reds)
 
-## Food Week
+## Food
+
+### Chili
+- [Camp Washington Chili](https://www.facebook.com/campwashingtonchili)
+- [Covington Chili](https://www.facebook.com/CovingtonChili)
+- [Dixie Chili](https://www.facebook.com/DixieChiliNewport)
+- [Gold Star Chili](https://www.facebook.com/goldstarchili)
+- [Skyline Skili](https://www.facebook.com/SkylineChili)
+
+### Chips
+- [Grippo's](https://www.grippos.com/)
+
+### Dessert
+- [Eishaus](https://www.facebook.com/Eishauscov)
+- [Graeter's](https://www.facebook.com/Graeters)
+
+### German Biergarten
+- [Findlay Market Biergarten](https://www.facebook.com/FindlayMarketBiergarten/)
+- [Hofbräuhaus Newport](https://www.facebook.com/hbhnewport)
+- [Mecklenberg Gardens](https://www.facebook.com/mecklenburg.gardens)
+- [Wunderbar](https://www.facebook.com/wunderbar.covington.3)
+
+### Goetta
+- [Glier's Goetta](https://www.goetta.com/)
+
+### Pretzels
+- [Tuba Baking Co.](https://www.facebook.com/tubabakingco)
+- [The Pretzel Place](https://www.facebook.com/thepretzelplace)
+
+### Restaurants
+- [Buffalo Wings & Rings](https://www.facebook.com/wingsandrings)
+- [Frisch's](https://www.facebook.com/frischsbigboy/)
+- [LaRosa's](https://www.facebook.com/LaRosasPizzeria)
+
+### Food Week
 - [Burger Week](https://www.cincinnatiburgerweek.com)
 - [Pizza Week](https://www.cincinnatipizzaweek.com)
 - [Wing Week](https://www.cincywingweek.com)
 
-## Goetta
-- [Glier's Goetta](https://www.goetta.com/) :flag_de:
 
 ## Insurance
 - [Great American Insurance Group](https://www.facebook.com/GreatAmericanInsuranceGroup/)
@@ -129,12 +149,3 @@
 ## House Plants
 - [Fern](https://www.facebook.com/fernstudiocincinnati)
 - [Fleurish Grounds](https://www.facebook.com/fleurishgrounds/)
-
-## Pretzels
-- [Tuba Baking Co.](https://www.facebook.com/tubabakingco)
-- [The Pretzel Place](https://www.facebook.com/thepretzelplace)
-
-## Restaurants
-- [Buffalo Wings & Rings](https://www.facebook.com/wingsandrings) 🍗
-- [Frisch's](https://www.facebook.com/frischsbigboy/) :hamburger:
-- [LaRosa's](https://www.facebook.com/LaRosasPizzeria) :pizza:
