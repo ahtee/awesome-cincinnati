@@ -8,10 +8,14 @@
 - [Bank](#bank)
 - [Barcade](#barcade)
 - [Beer](#beer)
+- [Cafe](#cafe)
 - [Clothing](#clothing)
 - [Coffee](#coffee)
 - [Condiments](#condiments)
-- [Festivities](#festivities)
+- [Decor](#decor)
+  - [Home Decor](#home-decor)
+  - [House Plants](#house-plants)
+- [Festivals](#festivals)
 - [Food](#food)
   - [Chili](#chili)
   - [Chips](#chips)
@@ -22,14 +26,26 @@
   - [Restaurants](#restaurants)
   - [Food Week](#food-week)
 - [Insurance](#insurance)
-- [Mall](#mall)
-  - [Indoor](#indoor)
-  - [Outdoor](#outdoor)
+- [Shopping](#shopping)
+  - [Indoor](#indoor-mall)
+  - [Outdoor](#outdoor-mall)
+  - [Both Indoor and Outdoor](#both-indoor-and-outdoor)
+- [Marathon](#marathon)
 - [Markets](#markets)
 - [Museum](#museum)
+- [Theaters](#theaters)
 - [News](#news)
 - [Parks](#parks)
 - [House Plants](#house-plants)
+- [Skateboard Shop](#skateboard-shop)
+- [Skatepark](#skatepark)
+- [Sports](#sports)
+  - [Professional](#professional)
+- [Streets](#streets)
+- [Telecom](#telecom)
+- [Theater](#theater)
+- [University](#university)
+- [Zoo](#zoo)
 
 ## Arcade
 - [Arcade Legacy](https://www.facebook.com/Arcade-Legacy-116078858447305)
@@ -49,6 +65,10 @@
 - [Rhinegeist](https://www.facebook.com/rhinegeist/)
 - [Urban Artifact](https://www.facebook.com/urbanartifactbrewing)
 
+## Cafe
+- [Mrs. Teapots Tea Room](https://www.facebook.com/Mrs-Teapots-Tea-Room-146435185673)
+- [Roebling Point Books and Coffee](https://www.facebook.com/roeblingpointbooksandcoffee)
+
 ## Clothing
 - [Native](https://www.facebook.com/NativeFlagShipStore)
 - [Sole By Style](https://www.facebook.com/solebystyle)
@@ -61,7 +81,17 @@
 ## Condiments
 - [Farmer Nate's Sauce](https://www.facebook.com/farmernatessauce)
 
-## Festivities
+## Decor
+
+### Home Decor
+- [Coda Co.](https://www.facebook.com/codacompany)
+
+### House Plants
+- [Fern](https://www.facebook.com/fernstudiocincinnati)
+- [Fleurish Grounds](https://www.facebook.com/fleurishgrounds/)
+
+## Festivals
+- [Bunbury](https://www.facebook.com/bunburyfestival/)
 - [Blink](https://www.facebook.com/blinkcincinnati)
 - [Goettafest](http://www.goettafest.com/)
 - [Oktoberfest](https://www.oktoberfestzinzinnati.com/)
@@ -104,6 +134,7 @@
 ### Food Week
 - [Burger Week](https://www.cincinnatiburgerweek.com)
 - [Pizza Week](https://www.cincinnatipizzaweek.com)
+- [Taco Week](https://www.cincytacoweek.com/)
 - [Wing Week](https://www.cincywingweek.com)
 
 
@@ -111,16 +142,21 @@
 - [Great American Insurance Group](https://www.facebook.com/GreatAmericanInsuranceGroup/)
 - [Western And Southern Financial Group](https://www.facebook.com/WesternSouthernFinancialGroup)
 
-## Mall
-### Indoor
+## Shopping
+### Indoor Mall
 - [Eastgate](https://www.shopeastgate-mall.com/)
 - [Cincinnati Mall / Forest Fair Village](https://www.facebook.com/pages/Forest%20Fair%20Village/105513396148991/) :skull:
 - [Kenwood](https://www.kenwoodtownecentre.com)
 - [Northgate](https://mynorthgatemall.com/)
 - [Tri-County Mall](https://www.tricountymall.com/)
-### Outdoor
+### Outdoor Mall
 - [Crestview Hills](https://www.facebook.com/CrestviewHillsTownCenter)
 - [Rookwood](https://shoprookwood.com/)
+### Both Indoor And Outdoor
+- [Newport on the Levee](https://www.facebook.com/newportonthelevee/)
+
+## Marathon
+- [Flying Pig Marathon](http://flyingpigmarathon.com/)
 
 ## Markets
 - [Covington Farmers Market](https://www.facebook.com/covingtonfarmersmarket)
@@ -146,6 +182,45 @@
 - [Sawyer Point](https://www.facebook.com/sawyerpoint)
 - [Washington Park](https://www.facebook.com/WashingtonParkOTR/)
 
-## House Plants
-- [Fern](https://www.facebook.com/fernstudiocincinnati)
-- [Fleurish Grounds](https://www.facebook.com/fleurishgrounds/)
+## Skateboard Shop
+- [Galaxie Skateshop](https://www.facebook.com/galaxieskateshop/)
+
+## Skatepark
+- [Bellevue Skatepark](https://goo.gl/maps/8J3UNyL16bGwmu9VA)
+- [Delhi Skatepark](https://goo.gl/maps/WoMVSUaxuRjA5vr4A)
+- [Florence Skatepark](https://goo.gl/maps/o41kCndpzjqTEuSC6)
+- [Newport Skatepark](https://goo.gl/maps/9iEvBT3CWZ8adNay6)
+
+## Sports
+
+### Professional
+- [Bengals](https://www.nfl.com/teams/cincinnati-bengals/) :football:
+- [FC Cincinnati](https://www.fccincinnati.com/) :soccer:
+- [Cyclones](https://cycloneshockey.com/) Hockey
+- [Reds](https://www.mlb.com/reds) :baseball:
+
+## Streets
+- [Mainstrasse Village](https://www.facebook.com/MainStrasseVillage)
+- [Over the Rhine](https://www.facebook.com/mainstreetotr)
+
+## Telecom 
+- [Cincinnati Bell](https://www.facebook.com/cincinnatibell/)
+
+## Theaters
+- [20th Century Theater](https://www.facebook.com/20thcenturytheater)
+- [Bogarts](https://www.facebook.com/bogartsshows)
+- [Madison Theater](https://www.facebook.com/MadisonTheaterOfficial/)
+- [Music Hall](https://www.facebook.com/musichallcincy)
+  - [CSO](https://www.facebook.com/CincySymphony)
+  - [POPS](https://www.facebook.com/cincinnatipops)
+- [Playhouse in the Park](https://www.facebook.com/cincinnatiplayhouse)
+- [Thompson House](https://www.facebook.com/ThompsonHouseNewport)
+- [Woodward Theater](https://www.facebook.com/TheWoodwardTheater/)
+
+## University
+- [Northern Kentucky University](https://www.facebook.com/nkuedu)
+- [University of Cincinnati](https://www.facebook.com/uofcincinnati)
+- [Xavier University](https://www.facebook.com/xavieruniversity)
+
+## Zoo
+- [Cincinnati Zoo](https://www.facebook.com/cincinnatizoo)
