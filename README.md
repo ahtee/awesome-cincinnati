@@ -33,7 +33,6 @@
 - [Marathon](#marathon)
 - [Markets](#markets)
 - [Museum](#museum)
-- [Theaters](#theaters)
 - [News](#news)
 - [Parks](#parks)
 - [House Plants](#house-plants)
@@ -43,7 +42,7 @@
   - [Professional](#professional)
 - [Streets](#streets)
 - [Telecom](#telecom)
-- [Theater](#theater)
+- [Theaters](#theaters)
 - [University](#university)
 - [Zoo](#zoo)
 
