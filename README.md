@@ -67,6 +67,7 @@
 ## Cafe
 - [Mrs. Teapots Tea Room](https://www.facebook.com/Mrs-Teapots-Tea-Room-146435185673)
 - [Roebling Point Books and Coffee](https://www.facebook.com/roeblingpointbooksandcoffee)
+- [Sleepy Bee Cafe](https://www.facebook.com/sleepybeecafe/)
 
 ## Clothing
 - [Native](https://www.facebook.com/NativeFlagShipStore)
@@ -75,6 +76,7 @@
 
 ## Coffee
 - [Bean Haus](https://www.facebook.com/beanhaus)
+- [Coffee Emporium](https://www.facebook.com/Coffee.Emporium)
 - [Carabello Coffee](https://www.facebook.com/carabellocoffee)
 
 ## Condiments
@@ -160,6 +162,8 @@
 ## Markets
 - [Covington Farmers Market](https://www.facebook.com/covingtonfarmersmarket)
 - [Findlay Market](https://www.facebook.com/FindlayMarket)
+- [Hyde Park Farmers Market](https://www.facebook.com/HydeParkFarmersMarket)
+- [Northside Farmers Market](https://www.facebook.com/CinciNorthsideFarmersMarket/)
 
 ## Museum
 - [American Sign Museum](https://www.facebook.com/americansignmuseum)
@@ -207,12 +211,14 @@
 
 ## Theaters
 - [20th Century Theater](https://www.facebook.com/20thcenturytheater)
+- [Aronoff Center](https://www.facebook.com/aronoffcenter)
 - [Bogarts](https://www.facebook.com/bogartsshows)
 - [Madison Theater](https://www.facebook.com/MadisonTheaterOfficial/)
 - [Music Hall](https://www.facebook.com/musichallcincy)
   - [CSO](https://www.facebook.com/CincySymphony)
   - [POPS](https://www.facebook.com/cincinnatipops)
 - [Playhouse in the Park](https://www.facebook.com/cincinnatiplayhouse)
+- [Taft Theater](https://www.facebook.com/TaftTheatre)
 - [Thompson House](https://www.facebook.com/ThompsonHouseNewport)
 - [Woodward Theater](https://www.facebook.com/TheWoodwardTheater/)
 
