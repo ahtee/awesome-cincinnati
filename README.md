@@ -4,7 +4,7 @@
 > A curated list of Cincinnati local businesses and other resources. Please contribute!
 
 ## Contents
-- [Art](#art)
+- [Arts](#arts)
 - [Arcade](#arcade)
 - [Bank](#bank)
 - [Bar](#bar)
@@ -54,7 +54,9 @@
 - [University](#university)
 - [Zoo](#zoo)
 
-## Art
+## Arts
+- [Baker-Hunt Art & Cultural Center](https://www.facebook.com/BakerHuntArt/)
+- [Cincinnati's School for Creative and Performing Arts](https://www.facebook.com/cincinnatiscpa)
 - [Creative House of Art & Design](https://www.facebook.com/CreativeHouseAD)
 - [Suders Art Store](https://www.facebook.com/Suders-Art-Store-116797258351592)
 
@@ -117,10 +119,11 @@
 - [Gia and the Blooms](https://www.facebook.com/giaandtheblooms)
 
 ## Festivals
-- [Bunbury](https://www.facebook.com/bunburyfestival/)
-- [Blink](https://www.facebook.com/blinkcincinnati)
-- [Goettafest](http://www.goettafest.com/)
-- [Oktoberfest](https://www.oktoberfestzinzinnati.com/)
+- [Bockfest Beer Festival](https://www.facebook.com/Bockfest)
+- [Bunbury Music Festival](https://www.facebook.com/bunburyfestival/)
+- [Blink Arts Festival](https://www.facebook.com/blinkcincinnati)
+- [Goettafest Food Festival](http://www.goettafest.com/)
+- [Oktoberfest Bier Festival](https://www.oktoberfestzinzinnati.com/)
 - [Cincinnati Pride](https://www.facebook.com/cincinnatipride)
 - [Reds Opening Day](https://www.mlb.com/reds)
 
