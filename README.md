@@ -17,11 +17,13 @@
   - [House Plants](#house-plants)
 - [Festivals](#festivals)
 - [Food](#food)
+  - [American](#american)
   - [Chili](#chili)
   - [Chips](#chips)
   - [Dessert](#dessert)
-  - [German Biergarten](#german-biergarten)
+  - [German](#german)
   - [Goetta](#goetta)
+  - [Italian](#italian)
   - [Pretzels](#pretzels)
   - [Restaurants](#restaurants)
   - [Food Week](#food-week)
@@ -43,6 +45,7 @@
 - [Streets](#streets)
 - [Telecom](#telecom)
 - [Theaters](#theaters)
+- [Public Transport](#public-transport)
 - [University](#university)
 - [Zoo](#zoo)
 
@@ -53,6 +56,9 @@
 ## Bank
 - [Fifth Third Bank](https://www.facebook.com/FifthThirdBank/)
 
+## Bar
+- [rhinehaus](https://www.facebook.com/rhinehausotr)
+
 ## Barcade
 - [16-Bit Bar+Arcade](https://www.facebook.com/16BitBarCincy)
 - [Arcade Legacy: Bar Edition](https://www.facebook.com/albaredition)
@@ -62,6 +68,8 @@
 - [Braxton Brewing Co.](https://www.facebook.com/BraxtonBrewingCompany)
 - [Madtree](https://www.facebook.com/MadTree)
 - [Rhinegeist](https://www.facebook.com/rhinegeist/)
+- [Taft's Brewing Co.](https://www.facebook.com/taftsbeerco)
+- [Moerlein Brewing Co.](https://www.facebook.com/christianmoerlein)
 - [Urban Artifact](https://www.facebook.com/urbanartifactbrewing)
 
 ## Cafe
@@ -76,6 +84,7 @@
 
 ## Coffee
 - [Bean Haus](https://www.facebook.com/beanhaus)
+- [blaCk Coffee Lounge](https://www.facebook.com/blaCkCoffeeCincy)
 - [Coffee Emporium](https://www.facebook.com/Coffee.Emporium)
 - [Carabello Coffee](https://www.facebook.com/carabellocoffee)
 
@@ -100,6 +109,9 @@
 
 ## Food
 
+### American
+- [Revolution Rotisserie](https://www.facebook.com/revolutionrotisserie/)
+
 ### Chili
 - [Camp Washington Chili](https://www.facebook.com/campwashingtonchili)
 - [Covington Chili](https://www.facebook.com/CovingtonChili)
@@ -114,14 +126,19 @@
 - [Eishaus](https://www.facebook.com/Eishauscov)
 - [Graeter's](https://www.facebook.com/Graeters)
 
-### German Biergarten
-- [Findlay Market Biergarten](https://www.facebook.com/FindlayMarketBiergarten/)
+### German
 - [Hofbräuhaus Newport](https://www.facebook.com/hbhnewport)
 - [Mecklenberg Gardens](https://www.facebook.com/mecklenburg.gardens)
 - [Wunderbar](https://www.facebook.com/wunderbar.covington.3)
 
 ### Goetta
 - [Glier's Goetta](https://www.goetta.com/)
+
+### Italian
+- [Scotti's Italian Restaurant](https://www.facebook.com/Scottis-Italian-Restaurant-111629218874441/)
+
+### Japanese
+- [Zundo Ramen](https://www.facebook.com/Zundo-Ramen-1083662955078159/)
 
 ### Pretzels
 - [Tuba Baking Co.](https://www.facebook.com/tubabakingco)
@@ -175,6 +192,7 @@
 - [Taft Museum of Art](https://www.facebook.com/taftmuseum)
 
 ## News
+- [Cincinnati Business Courier](https://www.facebook.com/BusinessCourier)
 - [Cincinnati Enquirer](https://www.cincinnati.com/)
 - [CityBeat](https://www.citybeat.com/)
 
@@ -203,6 +221,7 @@
 - [Reds](https://www.mlb.com/reds) :baseball:
 
 ## Streets
+- [Fountain Square](https://www.facebook.com/MyFountainSquare)
 - [Mainstrasse Village](https://www.facebook.com/MainStrasseVillage)
 - [Over the Rhine](https://www.facebook.com/mainstreetotr)
 
@@ -214,13 +233,20 @@
 - [Aronoff Center](https://www.facebook.com/aronoffcenter)
 - [Bogarts](https://www.facebook.com/bogartsshows)
 - [Madison Theater](https://www.facebook.com/MadisonTheaterOfficial/)
+- [Memorial Hall](https://www.facebook.com/CincinnatiMemorialHall/)
 - [Music Hall](https://www.facebook.com/musichallcincy)
   - [CSO](https://www.facebook.com/CincySymphony)
   - [POPS](https://www.facebook.com/cincinnatipops)
 - [Playhouse in the Park](https://www.facebook.com/cincinnatiplayhouse)
+- [Shakespeare Company](https://www.facebook.com/cincyshakes)
 - [Taft Theater](https://www.facebook.com/TaftTheatre)
 - [Thompson House](https://www.facebook.com/ThompsonHouseNewport)
 - [Woodward Theater](https://www.facebook.com/TheWoodwardTheater/)
+
+## Public Transport
+- [Cincinnati Bell Connector](https://www.facebook.com/CBConnector/)
+- [Metro Bus](https://www.facebook.com/GoMetro/)
+- [TANK Bus](https://www.facebook.com/tankbus)
 
 ## University
 - [Northern Kentucky University](https://www.facebook.com/nkuedu)
