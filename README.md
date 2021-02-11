@@ -6,8 +6,10 @@
 ## Contents
 - [Arcade](#arcade)
 - [Bank](#bank)
+- [Bar](#bar)
 - [Barcade](#barcade)
 - [Beer](#beer)
+- [Bookstore](#bookstore)
 - [Cafe](#cafe)
 - [Clothing](#clothing)
 - [Coffee](#coffee)
@@ -21,6 +23,7 @@
   - [Chili](#chili)
   - [Chips](#chips)
   - [Dessert](#dessert)
+  - [French](#french)
   - [German](#german)
   - [Goetta](#goetta)
   - [Italian](#italian)
@@ -49,6 +52,10 @@
 - [University](#university)
 - [Zoo](#zoo)
 
+## Art
+- [Creative House of Art & Design](https://www.facebook.com/CreativeHouseAD)
+- [Suders Art Store](https://www.facebook.com/Suders-Art-Store-116797258351592)
+
 ## Arcade
 - [Arcade Legacy](https://www.facebook.com/Arcade-Legacy-116078858447305)
 - [Arcade Legacy Newport](https://www.facebook.com/ArcadeLegacyNewport)
@@ -72,12 +79,18 @@
 - [Moerlein Brewing Co.](https://www.facebook.com/christianmoerlein)
 - [Urban Artifact](https://www.facebook.com/urbanartifactbrewing)
 
+## Bookstore
+- [Roebling Point Books and Coffee](https://www.facebook.com/roeblingpointbooksandcoffee)
+- [Smith and Hannon Bookstore](https://www.facebook.com/smithandhannonbookstore)
+
 ## Cafe
 - [Mrs. Teapots Tea Room](https://www.facebook.com/Mrs-Teapots-Tea-Room-146435185673)
-- [Roebling Point Books and Coffee](https://www.facebook.com/roeblingpointbooksandcoffee)
 - [Sleepy Bee Cafe](https://www.facebook.com/sleepybeecafe/)
 
 ## Clothing
+- [CincyShirts](https://www.facebook.com/cincyshirts)
+- [GOODS](https://www.facebook.com/goodsonmain)
+- [HOMAGE](https://www.facebook.com/HOMAGE)
 - [Native](https://www.facebook.com/NativeFlagShipStore)
 - [Sole By Style](https://www.facebook.com/solebystyle)
 - [UnheardOf](https://www.facebook.com/pages/Unheard%20Of/809909319038262/)
@@ -99,18 +112,23 @@
 ### House Plants
 - [Fern](https://www.facebook.com/fernstudiocincinnati)
 - [Fleurish Grounds](https://www.facebook.com/fleurishgrounds/)
+- [Gia and the Blooms](https://www.facebook.com/giaandtheblooms)
 
 ## Festivals
 - [Bunbury](https://www.facebook.com/bunburyfestival/)
 - [Blink](https://www.facebook.com/blinkcincinnati)
 - [Goettafest](http://www.goettafest.com/)
 - [Oktoberfest](https://www.oktoberfestzinzinnati.com/)
+- [Cincinnati Pride](https://www.facebook.com/cincinnatipride)
 - [Reds Opening Day](https://www.mlb.com/reds)
 
 ## Food
 
 ### American
 - [Revolution Rotisserie](https://www.facebook.com/revolutionrotisserie/)
+
+### Bakery
+- [Allez](https://www.facebook.com/Allez-Bakery-224713151300118)
 
 ### Chili
 - [Camp Washington Chili](https://www.facebook.com/campwashingtonchili)
@@ -125,6 +143,9 @@
 ### Dessert
 - [Eishaus](https://www.facebook.com/Eishauscov)
 - [Graeter's](https://www.facebook.com/Graeters)
+
+### French
+- [Macaron Bar](https://www.facebook.com/macaronbarcincinnati)
 
 ### German
 - [Hofbräuhaus Newport](https://www.facebook.com/hbhnewport)
@@ -154,7 +175,6 @@
 - [Pizza Week](https://www.cincinnatipizzaweek.com)
 - [Taco Week](https://www.cincytacoweek.com/)
 - [Wing Week](https://www.cincywingweek.com)
-
 
 ## Insurance
 - [Great American Insurance Group](https://www.facebook.com/GreatAmericanInsuranceGroup/)
@@ -190,6 +210,7 @@
 - [Contemporary Arts Center](https://www.facebook.com/cincycac)
 - [National Underground Railroad Freedom Center](https://www.facebook.com/FreedomCenter/)
 - [Taft Museum of Art](https://www.facebook.com/taftmuseum)
+- [Weston Art Gallery](https://www.facebook.com/westonartgallery)
 
 ## News
 - [Cincinnati Business Courier](https://www.facebook.com/BusinessCourier)
