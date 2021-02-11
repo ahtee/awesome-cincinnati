@@ -4,6 +4,7 @@
 > A curated list of Cincinnati local businesses and other resources. Please contribute!
 
 ## Contents
+- [Art](#art)
 - [Arcade](#arcade)
 - [Bank](#bank)
 - [Bar](#bar)
@@ -20,6 +21,7 @@
 - [Festivals](#festivals)
 - [Food](#food)
   - [American](#american)
+  - [Bakery](#bakery)
   - [Chili](#chili)
   - [Chips](#chips)
   - [Dessert](#dessert)
@@ -236,10 +238,10 @@
 ## Sports
 
 ### Professional
-- [Bengals](https://www.nfl.com/teams/cincinnati-bengals/) :football:
-- [FC Cincinnati](https://www.fccincinnati.com/) :soccer:
-- [Cyclones](https://cycloneshockey.com/) Hockey
-- [Reds](https://www.mlb.com/reds) :baseball:
+- [Bengals](https://www.nfl.com/teams/cincinnati-bengals/)
+- [FC Cincinnati](https://www.fccincinnati.com/)
+- [Cyclones](https://cycloneshockey.com/)
+- [Reds](https://www.mlb.com/reds)
 
 ## Streets
 - [Fountain Square](https://www.facebook.com/MyFountainSquare)
@@ -276,3 +278,4 @@
 
 ## Zoo
 - [Cincinnati Zoo](https://www.facebook.com/cincinnatizoo)
+- [Newport Aquarium](https://www.facebook.com/newportaquarium)
