@@ -29,6 +29,7 @@
   - [German](#german)
   - [Goetta](#goetta)
   - [Italian](#italian)
+  - [Japanese](#japanese)
   - [Pretzels](#pretzels)
   - [Restaurants](#restaurants)
   - [Food Week](#food-week)
@@ -164,7 +165,11 @@
 - [Scotti's Italian Restaurant](https://www.facebook.com/Scottis-Italian-Restaurant-111629218874441/)
 
 ### Japanese
+- [Quan Hapa](https://www.facebook.com/quanhapa)
 - [Zundo Ramen](https://www.facebook.com/Zundo-Ramen-1083662955078159/)
+
+### Mexican
+- [Gomez Salsa](https://www.facebook.com/gomezwalnut)
 
 ### Pretzels
 - [Tuba Baking Co.](https://www.facebook.com/tubabakingco)
