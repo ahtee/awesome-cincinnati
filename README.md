@@ -127,6 +127,7 @@
 - [Oktoberfest Bier Festival](https://www.oktoberfestzinzinnati.com/)
 - [Cincinnati Pride](https://www.facebook.com/cincinnatipride)
 - [Reds Opening Day](https://www.mlb.com/reds)
+- [Taste of Cincinnati](https://www.facebook.com/TasteofCincinnati)
 
 ## Food
 
