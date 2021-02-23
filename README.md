@@ -34,6 +34,7 @@
   - [Restaurants](#restaurants)
   - [Food Week](#food-week)
 - [Insurance](#insurance)
+- [Investing](#investing)
 - [Shopping](#shopping)
   - [Indoor](#indoor-mall)
   - [Outdoor](#outdoor-mall)
@@ -190,6 +191,9 @@
 ## Insurance
 - [Great American Insurance Group](https://www.facebook.com/GreatAmericanInsuranceGroup/)
 - [Western And Southern Financial Group](https://www.facebook.com/WesternSouthernFinancialGroup)
+
+## Investing
+- [Rhinevest](https://www.facebook.com/RhineVest)
 
 ## Shopping
 ### Indoor Mall
