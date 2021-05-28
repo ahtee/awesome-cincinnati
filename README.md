@@ -33,6 +33,7 @@
   - [Pretzels](#pretzels)
   - [Restaurants](#restaurants)
   - [Food Week](#food-week)
+- [Fun Facts](#fun-facts)
 - [Insurance](#insurance)
 - [Investing](#investing)
 - [Shopping](#shopping)
@@ -185,8 +186,12 @@
 ### Food Week
 - [Burger Week](https://www.cincinnatiburgerweek.com)
 - [Pizza Week](https://www.cincinnatipizzaweek.com)
+- [Salad Week](https://www.instagram.com/cincysaladweek/)
 - [Taco Week](https://www.cincytacoweek.com/)
 - [Wing Week](https://www.cincywingweek.com)
+
+## Fun Facts
+- [McDonalds Filet-O-Fish](https://en.wikipedia.org/wiki/Filet-O-Fish#History)
 
 ## Insurance
 - [Great American Insurance Group](https://www.facebook.com/GreatAmericanInsuranceGroup/)
